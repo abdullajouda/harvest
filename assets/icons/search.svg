@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.143" height="14.143" viewBox="0 0 14.143 14.143">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Search" d="M12.8,13.913l-2.664-2.664a6.292,6.292,0,1,1,1.111-1.111L13.913,12.8A.786.786,0,0,1,12.8,13.913ZM1.571,6.286A4.714,4.714,0,1,0,6.286,1.571,4.72,4.72,0,0,0,1.571,6.286Z" transform="translate(0.929 0.929)" fill="#c5c4c4"/>
+    </clipPath>
+  </defs>
+  <g id="_Icons_Close_Copy_2" data-name="_Icons / Close Copy 2" transform="translate(-0.929 -0.929)">
+    <path id="Search-2" data-name="Search" d="M12.8,13.913l-2.664-2.664a6.292,6.292,0,1,1,1.111-1.111L13.913,12.8A.786.786,0,0,1,12.8,13.913ZM1.571,6.286A4.714,4.714,0,1,0,6.286,1.571,4.72,4.72,0,0,0,1.571,6.286Z" transform="translate(0.929 0.929)" fill="#c5c4c4"/>
+  </g>
+</svg>

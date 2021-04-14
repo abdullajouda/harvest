@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.388" height="16.388" viewBox="0 0 16.388 16.388">
+  <g id="Emoji" transform="translate(0.375 0.375)">
+    <circle id="Oval_4" data-name="Oval 4" cx="7.819" cy="7.819" r="7.819" fill="#fff" stroke="#979797" stroke-miterlimit="10" stroke-width="0.75"/>
+    <g id="eyes" transform="translate(3.91 4.562)">
+      <circle id="Oval_5" data-name="Oval 5" cx="1.303" cy="1.303" r="1.303" transform="translate(5.213)" fill="#979797"/>
+      <circle id="Oval_5_Copy" data-name="Oval 5 Copy" cx="1.303" cy="1.303" r="1.303" fill="#979797"/>
+    </g>
+    <g id="lip" transform="translate(3.258 9.122)">
+      <g id="Rectangle_8" data-name="Rectangle 8" fill="none" stroke="#979797" stroke-miterlimit="10" stroke-width="0.75">
+        <path d="M0,0H9.122a0,0,0,0,1,0,0V0a3.91,3.91,0,0,1-3.91,3.91H3.91A3.91,3.91,0,0,1,0,0V0A0,0,0,0,1,0,0Z" stroke="none"/>
+        <path d="M.391.375H8.732a.016.016,0,0,1,.016.016v0A3.144,3.144,0,0,1,5.6,3.535H3.519A3.144,3.144,0,0,1,.375.391v0A.016.016,0,0,1,.391.375Z" fill="none"/>
+      </g>
+      <path id="Rectangle_9" data-name="Rectangle 9" d="M0,0H6.516a0,0,0,0,1,0,0V0a1.3,1.3,0,0,1-1.3,1.3H1.3A1.3,1.3,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(1.303 1.955)" fill="rgba(151,151,151,0.89)"/>
+    </g>
+  </g>
+</svg>

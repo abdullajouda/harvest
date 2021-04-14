@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "767449187356",
+    "project_id": "harvestq-5ea2f",
+    "storage_bucket": "harvestq-5ea2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767449187356:android:c94eb43b64d616381bcbd9",
+        "android_client_info": {
+          "package_name": "com.harvest.harvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "767449187356-ldfscb7rgkic49b08afqc6bggedu9h6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByP5sGqli2PEWZf0eHywjiSdkaSEElS2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "767449187356-ldfscb7rgkic49b08afqc6bggedu9h6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

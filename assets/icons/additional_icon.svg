@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="14.142" height="14.142" viewBox="0 0 14.142 14.142">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Right_Arrow" data-name="Right Arrow" d="M-6,0,0,5l-6,5Z" transform="translate(11 3)" fill="none" stroke="#3c4959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Arrow_Right" data-name="Icon/Arrow Right" transform="translate(8.485 1.414) rotate(45)" opacity="0.3">
+    <g id="Group_2" data-name="Group 2" transform="translate(-5 -3)">
+      <g id="Right_Arrow-2" data-name="Right Arrow" transform="translate(11 3)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M-6,0,0,5l-6,5Z" stroke="none"/>
+        <path d="M -6 0 L -6 10 L 0 5 L -6 0 M -6.000174999237061 -1.000011444091797 C -5.770492553710938 -1.000011444091797 -5.543099880218506 -0.9209527969360352 -5.359819889068604 -0.7682199478149414 L 0.6401801109313965 4.231780052185059 C 0.8681797981262207 4.421770095825195 1 4.703219890594482 1 5 C 1 5.296780109405518 0.8681797981262207 5.578229904174805 0.6401801109313965 5.768219947814941 L -5.359819889068604 10.76821994781494 C -5.543081760406494 10.92093849182129 -5.770515441894531 11.0000114440918 -6.000174999237061 11.0000114440918 C -6.144062519073486 11.0000114440918 -6.288806915283203 10.96898460388184 -6.424160003662109 10.90559005737305 C -6.775539875030518 10.74100971221924 -7 10.38801956176758 -7 10 L -7 0 C -7 -0.3880195617675781 -6.775539875030518 -0.7410097122192383 -6.424160003662109 -0.9055900573730469 C -6.288828372955322 -0.9689750671386719 -6.144040107727051 -1.000011444091797 -6.000174999237061 -1.000011444091797 Z" stroke="none" fill="#3c4959"/>
+      </g>
+      <g id="Mask_Group_2" data-name="Mask Group 2" clip-path="url(#clip-path)">
+        <g id="_Color" data-name="↳ 🎨Color">
+          <g id="Base" fill="#3c4959" stroke="#3c4959" stroke-linecap="round" stroke-linejoin="round" stroke-width="1">
+            <rect width="16" height="16" stroke="none"/>
+            <rect x="-0.5" y="-0.5" width="17" height="17" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

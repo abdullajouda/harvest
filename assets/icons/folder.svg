@@ -1,0 +1,16 @@
+<svg id="Icon_Folder" data-name="Icon/Folder" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M1,18a1,1,0,0,1-1-1V7A1,1,0,0,1,1,6H18V4H9a1,1,0,0,1-.707-.293L6.586,2H2V4A1,1,0,1,1,0,4V1A1,1,0,0,1,1,0H7a1,1,0,0,1,.707.293L9.414,2H19a1,1,0,0,1,1,1V17a1,1,0,0,1-1,1Z" transform="translate(5 6)" fill="#19998c"/>
+    </clipPath>
+  </defs>
+  <g id="Icon_Folder-2" data-name="Icon/Folder">
+    <path id="Grid" d="M0,0H30V30H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M1,18a1,1,0,0,1-1-1V7A1,1,0,0,1,1,6H18V4H9a1,1,0,0,1-.707-.293L6.586,2H2V4A1,1,0,1,1,0,4V1A1,1,0,0,1,1,0H7a1,1,0,0,1,.707.293L9.414,2H19a1,1,0,0,1,1,1V17a1,1,0,0,1-1,1Z" transform="translate(5 6)" fill="#19998c"/>
+    <g id="Icon_Folder-3" data-name="Icon/Folder" clip-path="url(#clip-path)">
+      <g id="Color">
+        <path id="Icon_Fill_Dark" data-name="Icon/🖌 Fill/Dark" d="M0,0H30V30H0Z" fill="#19998c"/>
+      </g>
+    </g>
+  </g>
+</svg>

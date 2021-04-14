@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165.244" height="165.244" viewBox="0 0 165.244 165.244">
+  <defs>
+    <filter id="Oval" x="-39.85" y="-3.85" width="244.944" height="244.944" filterUnits="userSpaceOnUse">
+      <feOffset dy="36" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feFlood flood-color="#4957b8" flood-opacity="0.137"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Oval)">
+        <circle id="Oval-2" data-name="Oval" cx="82.622" cy="82.622" r="82.622" transform="translate(0 0)" fill="#fbe5f5" stroke="#fff" stroke-miterlimit="10" stroke-width="7.7"/>
+      </g>
+    </clipPath>
+  </defs>
+  <g id="Market" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <g id="Illustration_Fruits_Strawberry" data-name="Illustration Fruits Strawberry" transform="translate(-1253.506 -3600.11)">
+      <path id="Trazado_422" data-name="Trazado 422" d="M1356.662,3716.775s-33.749-4.906-47.065,1.016-22.651,23.269-22.651,23.269-3.224,16.5.759,27.931,21.189,38.756,31.681,50.48,10.941,16.695,17.054,15.846,6.908,1.438,17.041-13.625a318.768,318.768,0,0,0,25.772-47.421c5.561-13.471,10.568-26.7,6.395-36.829C1377.337,3717.263,1356.662,3716.775,1356.662,3716.775Z" transform="translate(0 -80.056)" fill="#fdaa5c"/>
+      <path id="Trazado_423" data-name="Trazado 423" d="M1371.365,3635.226s-25.331-19.5-17.387-26.116c10.338.244,19.238,7.4,19.238,7.4s6.807-6.216,13.318-5.92c7.705,3.725,9.3,8.294,9.3,8.294a37.556,37.556,0,0,1,12.518-8.206c6.909,1.438,8.1,4.86,8.1,4.86s-.348,2.685-4.468,9.248a64.88,64.88,0,0,0-10.073,11.281Z" transform="translate(-50.508 0)" fill="#a1bba2"/>
+      <ellipse id="Elipse_363" data-name="Elipse 363" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1338.189 3688.306) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_364" data-name="Elipse 364" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1344.279 3669.737) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_365" data-name="Elipse 365" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1327.879 3664.294) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_366" data-name="Elipse 366" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1315.489 3680.309) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_367" data-name="Elipse 367" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1319.146 3701.846) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_368" data-name="Elipse 368" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1334.665 3723.501) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_369" data-name="Elipse 369" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1356.039 3682.375) rotate(-86.445)" fill="#fff"/>
+      <ellipse id="Elipse_370" data-name="Elipse 370" cx="3.841" cy="1.92" rx="3.841" ry="1.92" transform="translate(1350.547 3703.134) rotate(-86.445)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

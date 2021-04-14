@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="31.678" height="31.677" viewBox="0 0 31.678 31.677">
+  <defs>
+    <filter id="Oval" x="0" y="0" width="31.678" height="31.677" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#f88518" flood-opacity="0.212"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Pin" transform="translate(7.732 5.732)">
+    <circle id="Oval-2" data-name="Oval" cx="8" cy="8" r="8" fill="none" stroke="rgba(248,133,24,0.55)" stroke-miterlimit="10" stroke-width="2" opacity="0.253"/>
+    <g id="Oval-3" data-name="Oval" transform="translate(4.268 4.268)">
+      <g transform="matrix(1, 0, 0, 1, -12, -10)" filter="url(#Oval)">
+        <circle id="Oval-4" data-name="Oval" cx="3.839" cy="3.839" r="3.839" transform="translate(12 10)" fill="#f88518"/>
+      </g>
+      <circle id="Oval-5" data-name="Oval" cx="3.839" cy="3.839" r="3.839" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1222" height="163" viewBox="0 0 1222 163">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_717" data-name="Rectangle 717" width="1222" height="163" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_716" data-name="Rectangle 716" width="1222" height="352" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.343" y1="0.981" x2="0.648" y2="0.897" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#1f7f59"/>
+      <stop offset="1" stop-color="#8ddf33"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.103" y1="0.329" x2="0.937" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#77D629"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.103" y1="0.329" x2="0.937" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.103" y1="0.329" x2="0.924" y2="0.497" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#77D629"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_51" data-name="Mask Group 51" clip-path="url(#clip-path)">
+    <g id="Mask_Group_50" data-name="Mask Group 50" clip-path="url(#clip-path-2)">
+      <g id="path_home" transform="translate(-1344.187 -3558.43)">
+        <circle id="Oval" cx="1955.181" cy="1955.181" r="1955.181" fill="url(#linear-gradient)"/>
+        <ellipse id="Oval-2" data-name="Oval" cx="641.951" cy="255.803" rx="641.951" ry="255.803" transform="translate(1437.058 3222.791)" opacity="0.2" fill="url(#linear-gradient-2)"/>
+        <ellipse id="Oval_Copy_2" data-name="Oval Copy 2" cx="641.951" cy="255.803" rx="641.951" ry="255.803" transform="translate(1437.058 3102.221)" opacity="0.2" fill="url(#linear-gradient-3)"/>
+        <ellipse id="Oval_Copy" data-name="Oval Copy" cx="641.951" cy="355.191" rx="641.951" ry="355.191" transform="translate(860.28 3160.877)" opacity="0.117" fill="url(#linear-gradient-4)"/>
+      </g>
+    </g>
+  </g>
+</svg>
