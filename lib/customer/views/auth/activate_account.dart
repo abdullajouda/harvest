@@ -173,7 +173,7 @@ class _AccountActivationState extends State<AccountActivation>
   void initState() {
     startTimer();
     _controller =
-        AnimationController(duration: Duration(minutes: 2));
+        AnimationController(vsync :this,duration: Duration(minutes: 2));
     _controller.forward();
     super.initState();
   }
